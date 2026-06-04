@@ -1,0 +1,24 @@
+{
+  "name": "Utots Draft I",
+  "short_name": "Utots Draft I",
+  "start_url": "Utots Draft I",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020b08",
+  "theme_color": "#020b08",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "admin.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "admin.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

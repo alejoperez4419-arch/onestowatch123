@@ -1,7 +1,7 @@
 {
-  "name": "Utots Draft I",
-  "short_name": "Utots Draft I",
-  "start_url": "Utots Draft I",
+  "name": "Ones To Watch",
+  "short_name": "Ones To Watch",
+  "start_url": "Ones To Watch",
   "scope": "/",
   "display": "standalone",
   "background_color": "#020b08",

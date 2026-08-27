@@ -118,28 +118,16 @@ body::after {
 }
 
 .content-box {
-
   position: relative;
-
-  background: var(--glass);
-
+  background: rgb(0 0 0 / 79%);
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
-
   border: 1px solid var(--border);
-
   border-radius: 28px;
-
   padding: 40px 30px;
-
   text-align: center;
-
   overflow: hidden;
-
-  box-shadow:
-    0 0 25px rgba(0, 234, 255, .15),
-    0 0 50px rgba(79, 140, 255, .15),
-    0 20px 60px rgba(0, 0, 0, .55);
+  box-shadow: 0 0 25px rgba(0, 234, 255, .15), 0 0 50px rgba(79, 140, 255, .15), 0 20px 60px rgba(0, 0, 0, .55);
 }
 
 .content-box::before {
